@@ -1,0 +1,10 @@
+# Build intermediates — the finished video is day-one-day-seven.mp4.
+frames-day1/
+frames-day7/
+seg/
+body.mp4
+music.wav
+verify/
+serve/
+concat.txt
+out/
